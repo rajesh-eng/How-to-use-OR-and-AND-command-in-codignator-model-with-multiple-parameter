@@ -1,3 +1,5 @@
+
+<!-- And OR query codignator -->
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 class CustomModelName extends CI_Model {
